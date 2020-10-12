@@ -1,14 +1,14 @@
-### Hi 👋
-# 🕒 My daily work:
+## Hi 👋
+### 🕒 My daily work:
 > ```.html``` ```.css``` ```.js``` ```.php```
 
-# 🤓 My hobbies:
+### 🤓 My hobbies:
 > Play games, watch series, write code and design css animation. 
 
-# ☺️ My profession: 
+### ☺️ My profession: 
 > Frontend Developer. 
 
-# 🌱 Dreams: 
+### 🌱 Dreams: 
 > in the process of loading more.
 
 
