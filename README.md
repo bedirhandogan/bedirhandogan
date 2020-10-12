@@ -1,5 +1,5 @@
 ### Hi 👋
- - 💻 Languages: HTML, CSS, JAVASCRİPT & PHP
+ - 🕒 My daily work: ```.html``` ```.css``` ```.js``` ```.php```
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bedirhandogan&layout=compact)
