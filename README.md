@@ -1,4 +1,4 @@
-### Hi ![alt text](https://hizliresim.com/jz66Sy)
+### Hi ![alt text](https://i.hizliresim.com/jz66Sy.gif)
 
 <!--
 **bedirhandogan/bedirhandogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
