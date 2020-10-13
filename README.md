@@ -34,7 +34,7 @@ var life = [
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bedirhandogan&layout=compact)
-![alt text](https://i.hizliresim.com/Hi7mbL.gif)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bedirhandogan&layout=compact)
+![gif](https://i.hizliresim.com/Hi7mbL.gif)
 > Bedirhan Doğan ♥️
 
