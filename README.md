@@ -17,7 +17,7 @@
 
 ### 🌻 My life:
 ```
-var life = [
+const life = [
   
   "Eat 🍴",
   "Fun 🥳",
@@ -27,12 +27,11 @@ var life = [
   
   ];
   
-  var i = 0;
-  while (i < life.length) {
-
-    console.log(life[i++]);
+  for(print in life) {
     
-  } 
+    console.log(life[print]);
+    
+  }
 ```
 
 
