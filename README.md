@@ -1,6 +1,6 @@
 ## Hi 👋
 #### 🥳 My web address:
-> ![text] bedirhandogan.com (https://bedirhandogan.com/)
+> bedirhandogan.com ![text](https://bedirhandogan.com/)
 
 #### 🕒 My daily work:
 > ```.html``` ```.css``` ```.js``` ```.php```
