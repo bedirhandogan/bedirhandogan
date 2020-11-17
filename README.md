@@ -9,7 +9,7 @@
 > Play games, watch series, write code and design css animation. 
 
 #### ☺️ My profession: 
-> Frontend Developer. 
+> Front-end Developer. 
 
 #### 🌱 Dreams: 
 > in the process of loading more.
