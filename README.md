@@ -36,7 +36,7 @@ const life = [
 
 
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bedirhandogan&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bedirhandogan&langs_count=8)](https://github.com/bedirhandogan/github-readme-stats)
 ![gif](https://i.hizliresim.com/Hi7mbL.gif)
 > Bedirhan Doğan ♥️
 
