@@ -3,7 +3,7 @@
 > [bedirhandogan.com](http://bedirhandogan.com/)
 
 #### 🕒 My daily work:
-> ```.html``` ```.css``` ```.js``` ```.php```
+> ```.html``` ```.css``` ```.js```
 
 #### 🤓 My hobbies:
 > Play games, watch series, write code and design css animation. 
